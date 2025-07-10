@@ -23,4 +23,4 @@
 ![Postgres](https://shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=white)
 
 > ## 📊 Статистика:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nrdxn&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasatikk&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
