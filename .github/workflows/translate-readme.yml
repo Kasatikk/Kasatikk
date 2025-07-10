@@ -1,0 +1,16 @@
+name: Translate README
+on:
+  push:
+    branches:
+      - main  # при пушах 
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Translate README
+        uses: abiele/translate-readme@v1
+        with:
+          languages: 'ru,en'  
+          file: 'README.md'   # Исходный файл
+          output-dir: '.'    # Папка для сохранения переведенных файлов
