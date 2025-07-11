@@ -5,8 +5,6 @@
 - **DevOps**: CI/CD, Docker, Kubernetes, AWS, Terraform  
 - **Инструменты**: Git, PostgreSQL, MongoDB, Kafka
 
-> ## 🛠️ Языки и инструменты:
-
 ###
 
 <div align="center">
