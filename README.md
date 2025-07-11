@@ -57,7 +57,9 @@
 ###
 
 > ## 📊 Статистика:
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasatikk&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kasatikk&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
