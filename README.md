@@ -4,6 +4,7 @@
 - **Микросервисы**: Разработка, оркестрация, масштабирование  
 - **DevOps**: CI/CD, Docker, Kubernetes, AWS, Terraform  
 - **Инструменты**: Git, PostgreSQL, MongoDB, Kafka
+<h1 align="center">🐉 Flowseal / experienced coder </h1>
 
 ###
 
@@ -57,12 +58,8 @@
 
 ###
 
-> ## 📊 Статистика:
-
-###
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kasatikk&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kasatikkl&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###
@@ -75,8 +72,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kasatikk/Kasatikk/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kasatikk/Kasatikk/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Kasatikk/Kasatikk/refs/heads/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kasatikk/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kasatikk/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Kasatikk/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
