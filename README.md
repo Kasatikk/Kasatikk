@@ -4,7 +4,7 @@
 - **Микросервисы**: Разработка, оркестрация, масштабирование  
 - **DevOps**: CI/CD, Docker, Kubernetes, AWS, Terraform  
 - **Инструменты**: Git, PostgreSQL, MongoDB, Kafka
-<h1 align="center">🐉 Flowseal / experienced coder </h1>
+<h1></h1>
 
 ###
 
